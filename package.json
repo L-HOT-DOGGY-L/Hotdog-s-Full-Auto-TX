@@ -1,8 +1,0 @@
-{
-  "name": "Hotdog's Full Auto TX15",
-  "version": "1.0.0",
-  "main": "src/mod.js",
-  "license": "MIT",
-  "author": "Hotdog",
-  "sptVersion": "~3.9"
-}
